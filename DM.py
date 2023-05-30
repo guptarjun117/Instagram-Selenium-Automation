@@ -18,7 +18,7 @@ dm_type.click()
 
 # time.sleep(1)
 
-dm_type.send_keys("rise and shine niggas")
+dm_type.send_keys("this is a test text")
 
 # time.sleep(1)
 
